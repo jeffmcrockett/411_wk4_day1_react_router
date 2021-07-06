@@ -1,0 +1,19 @@
+.carsContainer {
+    width: 100%;
+}
+
+.carContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 100px auto 0 auto;
+    width: 400px;
+}
+
+Typography {
+    text-align: center;
+}
+
+.carsButton {
+    text-align: center;
+    color: lightblue;
+}
